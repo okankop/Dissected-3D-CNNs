@@ -9,3 +9,6 @@ Pytorch implementation of the article "Dissected 3D CNNs: Temporal Skip Connecti
 # Animation of Inference
 
 <p align="center"><img src="https://github.com/okankop/Dissected-3D-CNNs/blob/master/visual/D3D_animation.gif" align="middle" width="350" title="animation of inference" /></figure></p>
+
+
+## The code will be uploaded soon!

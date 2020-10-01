@@ -1,4 +1,4 @@
-Pytorch implementation of the article "Dissected 3D CNNs: Temporal Skip Connections for Efficient Online Video Processing".
+Pytorch implementation of the article "[Dissected 3D CNNs: Temporal Skip Connections for Efficient Online Video Processing](https://arxiv.org/pdf/2009.14639.pdf)".
 
 # Dissected-3D-CNNs
 

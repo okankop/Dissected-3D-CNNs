@@ -12,3 +12,16 @@ Pytorch implementation of the article "[Dissected 3D CNNs: Temporal Skip Connect
 
 
 ## The code will be uploaded soon!
+
+## Citation
+
+Please cite the following article if you use this code or pre-trained models:
+
+```bibtex
+@article{kopuklu2020dissected,
+  title={Dissected 3D CNNs: Temporal Skip Connections for Efficient Online Video Processing},
+  author={K{\"o}p{\"u}kl{\"u}, Okan and H{\"o}rmann, Stefan and Herzog, Fabian and Cevikalp, Hakan and Rigoll, Gerhard},
+  journal={arXiv preprint arXiv:2009.14639},
+  year={2020}
+}
+```
